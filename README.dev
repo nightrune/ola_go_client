@@ -1,0 +1,2 @@
+protoc -I=/home/sean/ola/common/protocol/  /home/sean/ola/common/protocol/Ola.proto --go_out=.
+
